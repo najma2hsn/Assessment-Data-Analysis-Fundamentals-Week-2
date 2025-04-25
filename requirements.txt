@@ -1,0 +1,5 @@
+pandas
+ipykernel
+redshift_connector
+scipy
+altair[all]
